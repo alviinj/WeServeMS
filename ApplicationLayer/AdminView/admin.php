@@ -40,7 +40,7 @@ if(isset($_GET['delete'])){
         <table class="table table-striped">
             <thead>
                 <tr>
-                    <td scope="col">Runner ID</td>
+                    <td scope="col">ID</td>
                     <td scope="col">Runner Name</td>
                     <td scope="col">License</td>
                     <td scope="col">Vehicle Type</td>
